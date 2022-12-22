@@ -1,2 +1,222 @@
-{
-s}
+[
+    {
+        "img": "./assets/images/PNG/ERP_icon.png",
+        "quote": "#7",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "04-12-2022",
+        "adate": "10-12-2022",
+        "status": "Approved",
+        "total": "9",
+        "tprice": 18541.11,
+        "month" : "nov"
+    },
+    {
+        "img": "./assets/images/PNG/Email_icon.png",
+        "quote": "#1",
+        "name": "Corporation/800-433-7300",
+        "rdate": "02-04-2022",
+        "adate": "11-11-2022",
+        "status": "Approved",
+        "total": "dec",
+        "tprice": 18541.11,
+        "month" : "nov"
+    },
+    {
+        "img": "./assets/images/SVG/Add_icon.svg",
+        "quote": "#7i",
+        "name": "Kesson Corporation/800-433-7300",
+        "rdate": "01-01-2022",
+        "adate": "08-01-2022",
+        "status": "Approved",
+        "total": "7",
+        "tprice": 18541.11,
+        "month" : "aug"
+    },
+    {
+        "img": "./assets/images/PNG/Message_Icon.png",
+        "quote": "#3",
+        "name": "Mcesson Corporation/800-433-7300",
+        "rdate": "02-02-2022",
+        "adate": "08-02-2022",
+        "status": "Approved",
+        "total": "6",
+        "tprice": 18541.11,
+        "month" : "aug"
+    },
+    {
+        "img": "./assets/images/PNG/Message_Icon.png",
+        "quote": "#41",
+        "name": "Mcesson1 Corporation/800-433-7300",
+        "rdate": "03-03-2022",
+        "adate": "11-03-2022",
+        "status": "Approved",
+        "total": "5",
+        "tprice": 18541.11,
+        "month" : "dec"
+    },
+    {
+        "img": "./assets/images/SVG/Add_icon.svg",
+        "quote": "#10",
+        "name": "Messon Corporation/800-433-7400",
+        "rdate": "04-03-2022",
+        "adate": "02-03-2022",
+        "status": "Approved",
+        "total": "5",
+        "tprice": 0,
+        "month" : "feb"
+    },
+    {
+        "img": "./assets/images/PNG/ERP_icon.png",
+        "quote": "#12",
+        "name": "Kesson12 Corporation/800-433-7400",
+        "rdate": "05-03-2022",
+        "adate": "04-03-2022",
+        "status": "Approved",
+        "total": "5",
+        "tprice": 18541.11,
+        "month" : "apr"
+    },
+    {
+        "img": "./assets/images/PNG/ERP_icon.png",
+        "quote": "#13",
+        "name": "McKessonJohn Corporation/800-433-7400",
+        "rdate": "05-03-2022",
+        "adate": "07-11-2022",
+        "status": "Approved",
+        "total": "5",
+        "tprice": 18541.11,
+        "month" : "july"
+    },
+    {
+        "img": "./assets/images/SVG/Add_icon.svg",
+        "quote": "#14",
+        "name": "Kesson14 Corporation/800-433-7400",
+        "rdate": "05-03-2022",
+        "adate": "04-11-2022",
+        "status": "Approved",
+        "total": "5",
+        "tprice": 18541.11,
+        "month" : "apr"
+    },
+    {
+        "img": "./assets/images/PNG/Message_Icon.png",
+        "quote": "#15",
+        "name": "Kesson15 Corporation/800-433-7400",
+        "rdate": "05-03-2022",
+        "adate": "09-10-2022",
+        "status": "Approved",
+        "total": "5",
+        "tprice": 18541.11,
+        "month" : "sep"
+    },
+    {
+        "img": "./assets/images/PNG/ERP_icon.png",
+        "quote": "#5",
+        "name": "McKesson16 Corporation1/800-433-7300",
+        "rdate": "01-11-2022",
+        "adate": "06-02-2022",
+        "status": "Deleted",
+        "total": "9",
+        "tprice": 18541.11,
+        "month" : "jan"
+    },
+    {
+        "img": "./assets/images/PNG/Email_icon.png",
+        "quote": "#13",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "02-04-2022",
+        "adate": "0-09-2022",
+        "status": "Deleted",
+        "total": "8",
+        "tprice": 18541.11,
+        "month" : "jan"
+    },
+    {
+        "img": "./assets/images/PNG/Email_icon.png",
+        "quote": "#2",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "05-05-2022",
+        "adate": "02-06-2022",
+        "status": "Deleted",
+        "total": "7",
+        "tprice": 18541.11,
+        "month" : "june"
+    },
+    {
+        "img": "./assets/images/PNG/Message_Icon.png",
+        "quote": "#10",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "05-05-2022",
+        "adate": "0-06-2022",
+        "status": "Deleted",
+        "total": "0",
+        "tprice": 18541.11,
+        "month" : "jan"
+    },
+    {
+        "img": "./assets/images/PNG/ERP_icon.png",
+        "quote": "#7",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "04-12-2022",
+        "adate": "10-09-2022",
+        "status": "Pending",
+        "total": "4",
+        "tprice": 18541.11,
+        "month" : "nov"
+    },
+    {
+        "img": "./assets/images/PNG/Email_icon.png",
+        "quote": "#9",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "02-04-2022",
+        "adate": "5-08-2022",
+        "status": "Pending",
+        "total": "3",
+        "tprice": 18541.11,
+        "month" : "may"
+    },
+    {
+        "img": "./assets/images/SVG/Add_icon.svg",
+        "quote": "#7DB378FED1",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "01-01-2022",
+        "adate": "2-07-2022",
+        "status": "Pending",
+        "total": "2",
+        "tprice": 18541.11,
+        "month" : "feb"
+    },
+    {
+        "img": "./assets/images/PNG/Message_Icon.png",
+        "quote": "#7DB378FED1",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "02-02-2022",
+        "adate": "6-07-2022",
+        "status": "Pending",
+        "total": "1",
+        "tprice": 18541.11,
+        "month" : "june"
+    },
+    {
+        "img": "./assets/images/PNG/Email_icon.png",
+        "quote": "#7DB388FED3",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "05-05-2022",
+        "adate": "11-06-2022",
+        "status": "Pending",
+        "total": "5",
+        "tprice": 18541.11,
+        "month" : "dec"
+    },
+    {
+        "img": "./assets/images/PNG/Message_Icon.png",
+        "quote": "#7DB388FED3",
+        "name": "McKesson Corporation/800-433-7300",
+        "rdate": "05-05-2022",
+        "adate": "11-20-2022",
+        "status": "Pending",
+        "total": "6",
+        "tprice": 18541.11,
+        "month" : "nov"
+    }
+]
